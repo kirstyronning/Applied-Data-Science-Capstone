@@ -1,5 +1,5 @@
-# testrepo1
+# Applied Data Science Capstone
 
-## Editing the file
+## Kirsten Ronning 2023
 
-It's a markdown in this repository.
+IBM Data Science Professional Certificate
